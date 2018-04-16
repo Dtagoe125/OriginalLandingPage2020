@@ -7,7 +7,7 @@
 }
 /* =======================================================
 *
-* 	Template Style 
+* 	Template Style
 *
 * ======================================================= */
 body {
@@ -1393,3 +1393,8 @@ form label {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+/*# Added CSS -  */
+.bold {
+    font-weight: 400;
+}
